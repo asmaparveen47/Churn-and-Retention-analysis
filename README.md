@@ -7,13 +7,14 @@ This project analyzes customer churn, retention patterns, customer value, and re
 
 The dataset was cleaned and prepared using Python before analysis.
 
-## Power BI Dashboard
-
-
-
-### Customer Retention Insights
+### Data Model
 
 ![Customer Retention Insights](Screenshot%202026-09-11%20134427.png)
+
+## Power BI Dashboard
+
+### Cutomer Retention Insights
+
 
 ### Revenue & Customer Value Insights
 
