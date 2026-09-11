@@ -20,7 +20,7 @@ The dataset was cleaned and prepared using Python before analysis.
 
 ### Revenue & Customer Value Insights
 
-![Revenue Analysis Dashboard](images/revenue-dashboard.png)
+![Revenue Analysis Dashboard](Screenshot%202026-09-11%20134811.png)
 
 ## Key Insights
 
