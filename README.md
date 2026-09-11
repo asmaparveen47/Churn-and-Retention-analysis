@@ -13,6 +13,8 @@ The dataset was cleaned and prepared using Python before analysis.
 
 ## Power BI Dashboard
 
+![Customer Retention Insights](Screenshot%202026-09-11%20134755.png)
+
 ### Cutomer Retention Insights
 
 
