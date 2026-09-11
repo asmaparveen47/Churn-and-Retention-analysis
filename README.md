@@ -11,7 +11,7 @@ The dataset was cleaned and prepared using Python before analysis.
 
 ### Customer Retention Insights
 
-![Customer Retention Dashboard](images/churn-dashboard.png)
+![Customer Retention Dashboard](Screenshot 2026-09-11 134427.png)
 
 ### Revenue & Customer Value Insights
 
